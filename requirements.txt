@@ -19,3 +19,5 @@ uvicorn
 jinja2
 imblearn
 -e .
+
+mongodb+srv://ranjeetk5498:TwS97Y5iUbdo0YKJ@cluster0.vjhcumw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
